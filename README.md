@@ -16,7 +16,7 @@ No installation needed.
 
 ## Usage 
 
-This web application meet basic standars and is not optimized whatsoever. The purpose is for the student to analize the HTML and CSS codes and modify without breaking the website and to improve its performance/accesibility. 
+This web application meets basic standars and is not optimized whatsoever. The purpose is for the student to analize the HTML and CSS codes and modify without breaking the website and to improve its performance/accesibility. 
 
 ## Credits
 
