@@ -3,14 +3,15 @@
 
 ## Description
 
-This purpose of this project is to modify the base code so it meets accesibility standars and to use semantic tags in order to help the web browser engine and to improve its efficiency. 
+The purpose of this project is to modify the base code so it meets accesibility standars and to use semantic tags in order to help the web browser engine and to improve its efficiency. 
 
 ## Website Screenshot
 
 <img src="./assets/images/Homework-screenshot-1.jpg">
 <img src="./assets/images/Homework-screenshot-2.jpg">
 
-## Installation 
+## Installation
+ 
 No installation needed. 
 
 ## Usage 
